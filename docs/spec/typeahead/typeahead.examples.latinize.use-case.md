@@ -4,7 +4,7 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Latinize functionality
+**Goal**: Show user a possibility to use latinize letters
 
 Main success scenario:
 ----------------------
@@ -18,10 +18,6 @@ Main success scenario:
 6. When there are any matches then a drop-down with a list of matches is shown
 8. Items in the drop-down are clickable
 9. When user clicks on any item in typeahead drop-down, then typeahead container auto-fills with a selected State
-
-Extensions:
------------
-3a. If there is any data, it could be deleted. While deleting data the drop-down with matches is shown
 
 Variations:
 -----------

@@ -1,10 +1,10 @@
 16.6: Typeahead Template-driven forms example
-===================================
+=============================================
 **Primary Actor**: User
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Template-driven forms functionality
+**Goal**: Show user how typeahead can be used in template-driven forms
 
 Main success scenario:
 ----------------------
@@ -18,10 +18,6 @@ Main success scenario:
 8. When there are any matches then a drop-down with a list of States matches is shown
 9. Items in the drop-down are clickable
 10. When user clicks on any item in typeahead drop-down, then typeahead container "Model:" auto-fills with a selected State in the key "state"
-
-Extensions:
------------
-3a. If there is any data, it could be deleted.
 
 Variations:
 -----------

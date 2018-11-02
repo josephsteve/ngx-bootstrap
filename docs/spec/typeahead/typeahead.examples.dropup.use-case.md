@@ -4,7 +4,7 @@
 
 **Scope**: Ngx-bootstrap DEMO / BS version 3&4
 
-**Goal**: Show user Dropup functionality
+**Goal**: Show user Dropup functionality of typeahead
 
 Main success scenario:
 ----------------------
@@ -15,11 +15,6 @@ Main success scenario:
 5. When there are any matches then a drop-up with a list of States matches is shown. Items quantity in the drop-down is limited to 7
 6. Items in the drop-up are clickable
 7. When user clicks on any item in typeahead drop-down, then typeahead container auto-fills with a selected State
-
-
-Extensions:
------------
-3a. If there is any data, it could be deleted. While deleting data the drop-up with matches is shown
 
 Variations:
 -----------
